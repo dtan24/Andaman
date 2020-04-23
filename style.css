@@ -1,0 +1,193 @@
+body{
+  margin: 0;
+}
+h2{
+  font-size: 40px;
+  margin-top: 0;
+  font-family: 'Viga', sans-serif;
+  letter-spacing: 0.6rem;
+  padding-top: 50px;
+}
+p{
+    padding-bottom: 50px;
+}
+.sursagar-image{
+  position: relative;
+  opacity: 0.70;
+  background-image: url(road.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 722px;
+  display: block;
+}
+
+.sursagar{
+    position: absolute;
+    top: 40%;
+    left: 8%;
+    width: 27%;
+    height: 30px;
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.andaman{
+  background-color: #f7f7f7;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  width: 100%;
+
+}
+
+.andaman-description{
+  width: 50%;
+  margin: auto;
+  line-height: 1.8;
+  font-family: "Lato", sans-serif;
+
+}
+
+.img2{
+  position: relative;
+  opacity: 0.70;
+  background-image: url(2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 700px;
+  display: block;
+}
+.img2-description{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 27%;
+  height: 30px;
+  padding: 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.port{
+  background-color: #f7f7f7;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  width: 100%;
+
+}
+
+.port-description{
+  width: 50%;
+  margin: auto;
+  line-height: 1.8;
+  font-family: "Lato", sans-serif;
+
+}
+.img3{
+  position: relative;
+  opacity: 0.70;
+  background-image: url(4.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 700px;
+  display: block;
+}
+.img3-description{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 27%;
+  height: 30px;
+  padding: 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.ross{
+  background-color: #f7f7f7;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.ross-description{
+  width: 50%;
+  margin: auto;
+  line-height: 1.8;
+  font-family: "Lato", sans-serif;
+}
+.bottom-container{
+  height: 170px;
+  width: 100%;
+  background-color: black;
+  margin: auto;
+  position: relative;
+}
+.footer-description{
+position: absolute;
+top:80%;
+left: 45%;
+text-align: center;
+  color:  #ecfbfc;
+  font-size: 1rem;
+  padding-bottom: 0;
+}
+.footer-link{
+
+  margin-left: 40px;
+}
+.footer-li{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  left: 800px;
+  bottom: 30%
+
+}
+.footer-insta{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  left: 750px;
+  bottom: 30%
+
+}
+.footer-twitter{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  left: 700px;
+  bottom: 30%
+
+}
+
+.img4{
+  position: relative;
+  opacity: 0.50;
+  background-image: url(1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 400px;
+  display: block;
+}
